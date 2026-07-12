@@ -3,13 +3,13 @@ import { createCommande } from '../lib/supabase';
 
 // ─── Couleurs Flamboyant ───────────────────────────────────────
 const C = {
-  primary:    '#1A3A2A',
-  primaryMid: '#2D5E42',
-  gold:       '#B8943F',
-  goldLight:  '#D4AF6A',
-  beige:      '#F5EDD8',
-  cream:      '#FBF8F0',
-  dark:       '#1A1A14',
+  primary:    '#7B2D00',
+  primaryMid: '#A03800',
+  gold:       '#FF6D00',
+  goldLight:  '#FF8C33',
+  beige:      '#FFF3E0',
+  cream:      '#FFFAF5',
+  dark:       '#1A0800',
   darkSoft:   'rgba(0,0,0,0.52)',
   border:     'rgba(255,109,0,0.20)',
   danger:     '#C0392B',
